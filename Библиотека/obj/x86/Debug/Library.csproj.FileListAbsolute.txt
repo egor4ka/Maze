@@ -1,0 +1,6 @@
+V:\ООАиП\Лабиринт\Лаб1\Лаб1\obj\x86\Debug\Library.csproj.AssemblyReference.cache
+V:\ООАиП\Лабиринт\Лаб1\Лаб1\obj\x86\Debug\Library.csproj.CoreCompileInputs.cache
+V:\ООАиП\Лабиринт\Лаб1\Лаб1\bin\Debug\Лаб1.exe
+V:\ООАиП\Лабиринт\Лаб1\Лаб1\bin\Debug\Лаб1.pdb
+V:\ООАиП\Лабиринт\Лаб1\Лаб1\obj\x86\Debug\Лаб1.exe
+V:\ООАиП\Лабиринт\Лаб1\Лаб1\obj\x86\Debug\Лаб1.pdb
